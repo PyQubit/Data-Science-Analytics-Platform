@@ -1,0 +1,121 @@
+order_date,region,channel,customer_segment,units,unit_price,discount,revenue,returned
+2025-01-01,West,Store,Small Business,5,107.75,0.2,431.0,False
+2025-01-02,South,Store,Small Business,28,13.5,0.05,359.1,False
+2025-01-03,West,Online,Consumer,25,8.83,0.15,187.64,False
+2025-01-04,East,Online,Consumer,4,15.85,0.2,50.72,False
+2025-01-05,North,Online,Small Business,23,100.1,0.0,2302.3,False
+2025-01-06,West,Online,Small Business,4,129.83,0.0,519.32,False
+2025-01-07,West,Online,Small Business,21,44.26,0.0,929.46,False
+2025-01-08,West,Online,Consumer,3,137.11,0.0,411.33,True
+2025-01-09,North,Online,Consumer,15,16.7,0.1,225.45,False
+2025-01-10,South,Store,Consumer,20,129.75,0.0,2595.0,False
+2025-01-11,South,Online,Small Business,22,149.02,0.05,3114.52,False
+2025-01-12,West,Partner,Small Business,13,125.36,0.0,1629.68,False
+2025-01-13,East,Store,Consumer,27,114.11,0.0,3080.97,True
+2025-01-14,West,Online,Consumer,23,135.37,0.15,2646.48,False
+2025-01-15,South,Store,Consumer,7,14.1,0.0,98.7,False
+2025-01-16,North,Online,Small Business,20,38.67,0.0,773.4,False
+2025-01-17,East,Partner,Small Business,22,26.99,0.0,593.78,False
+2025-01-18,North,Online,Consumer,10,,0.05,804.56,False
+2025-01-19,West,Store,Consumer,22,121.27,0.05,2534.54,False
+2025-01-20,East,Online,Consumer,27,103.76,0.05,2661.44,False
+2025-01-21,West,Online,Consumer,24,137.37,0.0,3296.88,False
+2025-01-22,South,Online,Small Business,23,31.59,0.0,726.57,False
+2025-01-23,West,Partner,Consumer,19,119.66,0.15,1932.51,False
+2025-01-24,West,Store,Consumer,8,37.34,0.1,268.85,False
+2025-01-25,West,Online,Enterprise,24,49.16,0.1,1061.86,False
+2025-01-26,North,Online,Consumer,11,115.91,0.1,1147.51,False
+2025-01-27,South,Online,Consumer,16,156.99,0.1,2260.66,False
+2025-01-28,North,Store,Consumer,10,100.95,0.0,1009.5,True
+2025-01-29,,Online,Consumer,10,16.28,0.0,162.8,False
+2025-01-30,,Online,Consumer,5,101.68,0.05,482.98,False
+2025-01-31,East,Store,Consumer,28,14.44,0.0,404.32,False
+2025-02-01,West,Partner,Consumer,5,142.39,0.15,605.16,False
+2025-02-02,South,Online,Consumer,3,115.86,0.05,330.2,False
+2025-02-03,,Store,Consumer,28,34.32,0.1,864.86,False
+2025-02-04,South,Online,Small Business,17,21.94,0.15,317.03,False
+2025-02-05,North,Store,Consumer,13,35.9,0.05,443.36,False
+2025-02-06,North,Online,Consumer,22,156.96,0.15,2935.15,False
+2025-02-07,South,Store,Consumer,12,,0.05,885.78,False
+2025-02-08,North,Store,Small Business,4,127.18,0.15,432.41,False
+2025-02-09,East,Store,Small Business,22,104.73,0.0,2304.06,False
+2025-02-10,South,Online,Consumer,6,95.01,0.05,541.56,False
+2025-02-11,West,Partner,Consumer,17,30.06,0.05,485.47,False
+2025-02-12,East,Online,Consumer,28,151.8,0.0,4250.4,False
+2025-02-13,South,Online,Consumer,28,53.8,0.0,1506.4,False
+2025-02-14,West,Store,Consumer,11,95.86,0.15,896.29,False
+2025-02-15,West,Online,Consumer,23,114.37,0.1,2367.46,False
+2025-02-16,South,Store,Consumer,18,106.68,0.0,1920.24,False
+2025-02-17,South,Store,Consumer,14,150.97,0.0,2113.58,False
+2025-02-18,East,Online,Consumer,5,30.56,0.0,152.8,False
+2025-02-19,North,Partner,Consumer,11,85.27,0.0,937.97,False
+2025-02-20,North,Online,Small Business,19,69.41,0.2,1055.03,True
+2025-02-21,North,Store,Consumer,29,80.07,0.0,2322.03,False
+2025-02-22,West,Online,Enterprise,1,26.12,0.0,26.12,False
+2025-02-23,East,Partner,Consumer,21,28.38,0.05,566.18,False
+2025-02-24,,Online,Small Business,25,50.27,0.0,1256.75,False
+2025-02-25,West,Online,Enterprise,28,54.32,0.0,1520.96,False
+2025-02-26,South,Online,Enterprise,13,73.04,0.1,854.57,False
+2025-02-27,East,Partner,Small Business,4,100.87,0.1,363.13,False
+2025-02-28,North,Partner,Small Business,8,104.46,0.2,668.54,False
+2025-03-01,North,Store,Small Business,25,70.6,0.1,1588.5,True
+2025-03-02,East,Partner,Small Business,26,70.14,0.05,1732.46,False
+2025-03-03,South,Partner,Consumer,19,41.08,0.1,702.47,False
+2025-03-04,East,Store,Consumer,4,97.42,0.15,331.23,False
+2025-03-05,West,Online,Consumer,4,56.19,0.1,202.28,True
+2025-03-06,East,Store,Small Business,14,13.48,0.2,150.98,False
+2025-03-07,,Store,Consumer,18,,0.1,1159.92,False
+2025-03-08,East,Online,Consumer,1,80.07,0.15,68.06,False
+2025-03-09,South,Online,Small Business,20,42.29,0.0,845.8,False
+2025-03-10,North,Store,Consumer,16,95.01,0.1,1368.14,False
+2025-03-11,South,Online,Consumer,1,94.0,0.0,94.0,False
+2025-03-12,North,Partner,Consumer,3,114.7,0.05,326.9,False
+2025-03-13,South,Online,Consumer,14,106.49,0.1,1341.77,False
+2025-03-14,West,Online,Consumer,21,107.17,0.2,1800.46,False
+2025-03-15,North,Store,Consumer,24,56.06,0.2,1076.35,False
+2025-03-16,North,Online,Consumer,13,127.69,0.0,1659.97,False
+2025-03-17,South,Online,Consumer,9,91.47,0.1,740.91,False
+2025-03-18,South,Store,Consumer,29,73.58,0.1,1920.44,False
+2025-03-19,East,Partner,Small Business,14,103.15,0.0,1444.1,False
+2025-03-20,East,Online,Consumer,10,62.82,0.0,628.2,False
+2025-03-21,West,Online,Enterprise,13,85.94,0.0,1117.22,False
+2025-03-22,East,Store,Enterprise,1,119.98,0.1,107.98,False
+2025-03-23,South,Partner,Consumer,9,142.73,0.05,1220.34,False
+2025-03-24,West,Store,Consumer,15,148.0,0.2,1776.0,False
+2025-03-25,North,Online,Consumer,27,84.55,0.05,2168.71,False
+2025-03-26,North,Online,Small Business,22,87.08,0.2,1532.61,False
+2025-03-27,North,Online,Small Business,23,129.58,0.0,2980.34,False
+2025-03-28,East,Online,Small Business,16,55.8,0.1,803.52,False
+2025-03-29,South,Store,Consumer,4,135.28,0.0,541.12,False
+2025-03-30,North,Online,Small Business,12,83.11,0.05,947.45,False
+2025-03-31,East,Store,Consumer,29,25.61,0.15,631.29,False
+2025-04-01,North,Store,Small Business,2,18.95,0.2,30.32,False
+2025-04-02,East,Store,Consumer,26,135.98,0.15,3005.16,False
+2025-04-03,South,Online,Small Business,20,16.45,0.0,329.0,False
+2025-04-04,South,Store,Small Business,9,50.65,0.0,455.85,False
+2025-04-05,South,Store,Consumer,23,,0.0,1352.17,False
+2025-04-06,East,Store,Small Business,25,,0.0,857.5,False
+2025-04-07,South,Online,Consumer,2,55.71,0.1,100.28,False
+2025-04-08,North,Online,Small Business,4,120.89,0.1,435.2,True
+2025-04-09,North,Partner,Consumer,20,10.23,0.1,184.14,False
+2025-04-10,West,Online,Enterprise,29,133.73,0.15,3296.44,False
+2025-04-11,West,Online,Consumer,1,138.2,0.1,124.38,False
+2025-04-12,East,Online,Enterprise,20,64.58,0.15,1097.86,False
+2025-04-13,North,Store,Small Business,4,31.35,0.0,125.4,False
+2025-04-14,West,Partner,Consumer,19,99.33,0.0,1887.27,False
+2025-04-15,West,Online,Small Business,19,26.19,0.1,447.85,False
+2025-04-16,East,Partner,Small Business,3,63.47,0.15,161.85,False
+2025-04-17,South,Online,Enterprise,20,153.68,0.0,3073.6,False
+2025-04-18,,Store,Consumer,27,159.31,0.05,4086.3,False
+2025-04-19,North,Store,Consumer,26,125.36,0.1,2933.42,False
+2025-04-20,West,Online,Consumer,1,55.27,0.0,55.27,False
+2025-04-21,South,Online,Small Business,8,112.53,0.0,900.24,False
+2025-04-22,North,Online,Consumer,7,115.22,0.15,685.56,False
+2025-04-23,South,Partner,Consumer,14,66.95,0.1,843.57,False
+2025-04-24,East,Store,Consumer,5,105.42,0.0,527.1,False
+2025-04-25,North,Partner,Consumer,25,9.63,0.15,204.64,False
+2025-04-26,West,Store,Consumer,23,39.78,0.0,914.94,False
+2025-04-27,,Online,Small Business,24,87.81,0.15,1791.32,False
+2025-04-28,East,Store,Small Business,6,32.89,0.0,197.34,False
+2025-04-29,South,Online,Consumer,1,33.22,0.05,31.56,False
+2025-04-30,East,Online,Consumer,27,135.12,0.0,3648.24,False

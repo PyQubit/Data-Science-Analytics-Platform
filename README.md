@@ -181,10 +181,6 @@ data-science-analytics/
 
 Issues, bug reports, and focused improvements are welcome. When reporting a problem, include the Python version, relevant dependency versions, reproducible steps, and a small non-sensitive sample when possible. Please do not commit private datasets, generated reports containing sensitive data, credentials, or API keys.
 
-## 📄 License
-
-No license is specified in the provided project files. Add a `LICENSE` file before presenting this repository as open source under a particular license.
-
 ---
 
 <a id="فارسی"></a>
@@ -359,10 +355,6 @@ data-science-analytics/
 ## 🤝 مشارکت در توسعه
 
 گزارش باگ، پیشنهاد بهبود و مشارکت‌های مشخص و قابل بررسی ارزشمند هستند. هنگام ثبت مشکل، نسخهٔ Python، نسخه‌های وابستگی مرتبط، مراحل بازتولید و در صورت امکان نمونه‌ای کوچک و فاقد اطلاعات حساس را ارائه کنید. داده‌های خصوصی، گزارش‌های حاوی اطلاعات حساس، اطلاعات ورود و کلیدهای API را به مخزن اضافه نکنید.
-
-## 📄 مجوز انتشار
-
-در فایل‌های فعلی پروژه مجوزی مشخص نشده است. پیش از معرفی مخزن به‌عنوان پروژهٔ متن‌باز تحت یک مجوز خاص، فایل `LICENSE` مناسب را اضافه کنید.
 
 </div>
 
